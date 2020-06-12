@@ -6,11 +6,11 @@
 # java -jar ./dhateapp-0.0.1-SNAPSHOT.jar
 
 # Returns Profile
-/profile/<username>
+/profile/<<username>>
   
 # Returns UUID key
-/login/<username>?pw=<password>
+/login/<<username>>?pw=<<password>>
   
 # Returns Search result list
-/search/<username>?dist=<dist>&gender=<gender>
+/search/<<username>>?dist=<<dist>>&gender=<<gender>>
 
