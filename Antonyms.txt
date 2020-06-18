@@ -147,6 +147,7 @@ great - tiny
 grow - shrink
 guest - host
 guilty - innocent
+handsome - ugly
 happy - sad
 hard - easy
 harmful - harmless
